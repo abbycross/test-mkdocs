@@ -3,3 +3,4 @@ nav:
     - Home: index.md
     - Access: access.md
     - Onboarding steps: onboard.md
+theme: readthedocs
