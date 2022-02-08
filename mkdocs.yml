@@ -3,4 +3,6 @@ nav:
     - Home: index.md
     - Access: access.md
     - Onboarding steps: onboard.md
+    - Guidelines: guidelines.md
+    - Qiskit: qiskit.md
 theme: readthedocs
