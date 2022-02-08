@@ -1,1 +1,5 @@
 site_name: Grand Central Wiki
+nav:
+    - Home: index.md
+    - Access: access.md
+    - Onboarding steps: onboard.md
