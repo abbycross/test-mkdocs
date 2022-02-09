@@ -16,5 +16,3 @@ Let's see what a table looks like.
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
-
-H~2~O
